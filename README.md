@@ -1,4 +1,4 @@
-# fortjs-typescript-starter
+# fortjs-typescript-api-sample
 Starter project for fortjs using typescript
 
 # How to use
